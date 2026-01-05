@@ -1,3 +1,5 @@
+# Wine Quality Analysis
+
 ## Overview...
 This project analyzes how chemical properties influence wine quality, using the well‑known Wine Quality dataset. I led a team of four to explore the relationships between physicochemical attributes and quality ratings, applying statistical analysis and machine‑learning models to identify the strongest predictors of wine quality.
 
