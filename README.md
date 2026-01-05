@@ -29,7 +29,7 @@ The goal of the project was to support a data‑driven wine‑evaluation guide, 
 - K‑Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
 
-Models were assessed using:
+**Models were assessed using:**
 
 - Accuracy
 - Confusion matrices
